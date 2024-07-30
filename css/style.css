@@ -8494,6 +8494,13 @@ textarea.form-control {
   position: relative;
   z-index: 0; }
 
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+} 
+
 .block-20 {
   overflow: hidden;
   background-size: cover;
